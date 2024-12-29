@@ -357,21 +357,3 @@ header{
     }
 }
 
-#project-footer {
-    text-align: center;
-    padding: 1rem;
-    background-color: #000;
-    color: #fff;
-    font-size: smaller;
-}
-
-
-#project-footer a {
-    color: #1e90ff;
-    text-decoration: none;
-}
-
-#project-footer a:hover {
-    text-decoration: underline;
-}
-
